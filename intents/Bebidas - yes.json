@@ -1,0 +1,49 @@
+{
+  "id": "74f05466-3393-4cb3-a00b-3641c4b3e486",
+  "parentId": "f79435f7-e4be-4628-968f-79d4162a41f5",
+  "rootParentId": "f79435f7-e4be-4628-968f-79d4162a41f5",
+  "name": "Bebidas - yes",
+  "auto": true,
+  "contexts": [
+    "Bebidas-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Bebidas.Bebidas-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sua #Bebidas-followup.Bebidas foi adicionada a sua compra"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Pode me informa o local de retirada do pedido. Pode ver a lista dos locas inserindo \"4\" ou  \"locais de entrega\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

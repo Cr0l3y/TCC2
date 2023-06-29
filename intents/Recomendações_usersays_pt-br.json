@@ -1,0 +1,158 @@
+[
+  {
+    "id": "14e16d2e-6e07-41f9-a384-184e6d7fe48b",
+    "data": [
+      {
+        "text": "alguma ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "musical",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ec3550f4-78af-4268-abfd-c4efccc53d2c",
+    "data": [
+      {
+        "text": "me recomende ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ab5cbbc1-e524-4ba8-8305-00cbe29e99b0",
+    "data": [
+      {
+        "text": "tem alguma preferencia em qual ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "userDefined": false
+      },
+      {
+        "text": " iria escolher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c7dd0265-3061-45e5-8f1a-75d10bd90190",
+    "data": [
+      {
+        "text": "qual ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "userDefined": false
+      },
+      {
+        "text": " vc gostaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b6e7f862-35ae-46bd-abe1-74e70d7802d5",
+    "data": [
+      {
+        "text": "tem alguma ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "userDefined": false
+      },
+      {
+        "text": " boa em especifico?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c1054c15-41dd-48a7-a0e4-a9569cc43a79",
+    "data": [
+      {
+        "text": "pode me recomendar ",
+        "userDefined": false
+      },
+      {
+        "text": "uma pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "90c14c30-096e-4433-969e-5993c0a479ca",
+    "data": [
+      {
+        "text": "tem alguma recomendação?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "122d678c-aedc-4d5a-ad40-f79f431ddef3",
+    "data": [
+      {
+        "text": "você pode me recomenda alguma ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

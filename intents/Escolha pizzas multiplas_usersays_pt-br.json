@@ -1,0 +1,4161 @@
+[
+  {
+    "id": "f0456361-e92f-4069-8d6c-fbabcbcbbdf6",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Frango com catupiry e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Alcachofra",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1c9e26c5-af05-4890-9a0d-1eb8e7f4b5c6",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Frango com catupiry e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexicana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1237081d-2ce5-4570-b8be-8ec26792239a",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Frango com catupiry e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Francesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "952feab1-cdd7-4877-8ca4-1687f98652f8",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Frango com catupiry e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Caprese",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b7772268-043d-4da9-a434-b52f40c0483c",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Frango com catupiry e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Scamorza",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e0b0d92d-6e5c-4d45-af8e-4cb811d36da7",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Frango com catupiry e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Brigadeiro",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a2159438-4e97-47a6-9e71-740475496d4c",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Frango com catupiry e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Alcachofra",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "75677a9b-1441-449c-b348-1e482ab00985",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Frango com catupiry e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexicana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "693daaaa-8e03-4006-ba54-f87e8b826f90",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Frango com catupiry e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Francesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "219c4da9-936f-40d0-97c7-83e80920e82f",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Frango com catupiry e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Caprese",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bcefe506-0c02-4089-9b08-a950d5dff1ce",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Frango com catupiry e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Scamorza",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "382ff545-899a-4723-b4e2-8c5daede4d6b",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Frango com catupiry e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Brigadeiro",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "19a9fe4e-7d34-4fc3-b70a-178099d9d731",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Frango com catupiry e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Americana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a2b6edc0-9e00-4a35-a932-999052b97dd0",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Quatro queijos e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Alcachofra",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8b2b3d38-e9f3-45d2-8052-19fcb4521f0c",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Quatro queijos e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexicana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d5fbce72-7ecc-423c-8086-b216caad4043",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Quatro queijos e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Francesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1525656d-0efc-4355-80ef-2aa561a0fd10",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Quatro queijos e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Caprese",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1d8b40e6-a95f-4d9b-9545-7d3ea647eb70",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Quatro queijos e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Scamorza",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "90a271c4-782e-430c-8cee-7717d9d10f96",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Quatro queijos e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Brigadeiro",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0977bd41-ed16-40a4-aaf4-186681f22ab7",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Quatro queijos e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Alcachofra",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "292fabc8-caf3-4ed3-8dad-11559d205bc4",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Quatro queijos e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexicana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "101f6d32-b6c1-4b67-aff0-fadc32a51045",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Quatro queijos e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Francesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c1b22e11-b144-4614-9bf4-74dc489267ba",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Quatro queijos e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Caprese",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2ece842e-de21-4163-bede-979f9904d3f1",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Quatro queijos e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Scamorza",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "56116e23-adf7-4d85-bfe6-d801edd476b9",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Quatro queijos e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Brigadeiro",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d1a62841-e8c7-45c6-ae10-6b9a15e61ef5",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Quatro queijos e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Americana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6175b90e-1204-45e9-a404-632941287f5b",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Marguerita e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Alcachofra",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d01699d7-2d52-4642-8fc0-319716ca34c5",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Marguerita e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexicana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "07e9c236-f17b-4819-9d17-581d0738c236",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Marguerita e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Francesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0139cda5-bc4e-4d01-9310-14afa3319d94",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Marguerita e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Caprese",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3c760ff1-f078-4720-b18f-280bc1f57a84",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Marguerita e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Scamorza",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fd28a4ff-315a-4e82-849d-d29c5bd23e80",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Marguerita e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Brigadeiro",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e7856fc1-c301-4247-b076-7259c235da44",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Marguerita e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Alcachofra",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3389f62b-63a5-412e-bf48-2d3640bd3c45",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Marguerita e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexicana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ebe5fedb-226a-4c1f-b939-9684dabb9d69",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Marguerita e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Francesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6787b627-92b6-4c79-a6ff-12261f9528c1",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Marguerita e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Caprese",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "89a0d97e-4b59-4ab2-a4fa-9fe3b04cbd8d",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Marguerita e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Scamorza",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "75608db1-1406-402d-b65c-b20c32135681",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Marguerita e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Brigadeiro",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9151c499-a903-45da-8f9a-db4d034f1254",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Marguerita e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Americana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2da7ffdc-9c9b-4620-9746-e6e79dabc657",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muçarela e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Alcachofra",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4c8f3b04-218e-4623-944d-29dd14c1cfbe",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muçarela e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexicana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "29737f7f-5657-4c05-9919-066c1a2d9b8d",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muçarela e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Francesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "425a5633-594e-4c99-a55c-e7b82dc0266d",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muçarela e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Caprese",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bbca91d3-8fa8-46d6-9c95-9bfb51f9c2f6",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muçarela e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Scamorza",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "59d4f8d9-182e-4fae-9206-b9fcb0cb5caf",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muçarela e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Brigadeiro",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7c9edfd3-54f2-4ebd-8914-0777d92211e6",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muçarela e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Alcachofra",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e104f0aa-b3a8-418b-94ee-d4f9cefbeb16",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muçarela e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexicana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f49400e0-5893-419c-a468-c228a31db2a9",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muçarela e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Francesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ce44f0a2-d118-4fb2-b932-35a89305a77f",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muçarela e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Caprese",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e805b5af-5f4b-4a5c-ad96-a4b7258317f0",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muçarela e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Scamorza",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f26bf508-a4d4-494a-96d4-9b57a2a8260a",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muçarela e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Brigadeiro",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f4cf4c4c-3985-4ea4-9ed6-84af031ac2dd",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muçarela e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Americana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "90d18c8b-4709-487b-832d-f910f4adf653",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Alcachofra",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4331aa0e-b6c1-40db-8696-f0e6af99067c",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexicana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "70e62219-cc27-4e12-8867-c8241127569f",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Francesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c75c795d-57b3-46f2-aa5b-2bedb3ca113e",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Caprese",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "79c7df38-6688-4630-a291-5b184cb19122",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Scamorza",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "207a3793-fe97-4b31-ba37-57c89e8a87dc",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Brigadeiro",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e1485399-100c-4027-9b2e-b4882ac913d2",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Alcachofra",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7a3a3a32-94a8-4baf-a5b9-c16a058372ac",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexicana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "de4a0e52-94fe-4169-80ba-21f7bd0882af",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Francesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1402ed8a-a121-4cd5-b44f-d0a9d10a0820",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Caprese",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "72e8ab55-fe65-4f0e-b7ea-21ff892b8427",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Scamorza",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a13ba88-2db7-4eff-adce-e692d8967ecf",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Brigadeiro",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "be7c0315-56f4-49f9-afe9-5307daab126c",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Americana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "36ba23c1-491a-4509-9de0-0be6470864f5",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Americana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4697b6a9-d745-4ad4-ad47-4dff9d418333",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Americana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "29611f10-76fd-4d88-8a0d-7b433f846bb8",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Americana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a5909f64-b5c6-44a0-91b0-5425db143d2c",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e Brigadeiro",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a076e38a-7884-45a5-b47f-0c59d8144fa7",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e Napolitana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d6e15430-76c7-4a2e-8b3a-81f9fc1ec40e",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e Scamorza",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b9176f93-01b5-4deb-9810-4048ae54a71f",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e Caprese",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8b4450a2-e51e-42dc-8c10-4b6098910184",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e Francesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c2c2909d-4a1a-47ff-9317-949329bea0d6",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e Mexicana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "528712dd-4dc4-4b2d-a788-3321f797170f",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Portuguesa e Alcachofra",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "846d3683-d9a2-4625-bc03-f31b3e3730a1",
+    "data": [
+      {
+        "text": "Portuguesa e Americana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e77f2d8a-34d9-4e48-bd84-001df96c8641",
+    "data": [
+      {
+        "text": "Portuguesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e Napolitana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fe218d40-edfe-4610-82b5-d6a78fdc73cf",
+    "data": [
+      {
+        "text": "Portuguesa e Scamorza",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c1e2b79b-5d84-4f66-80fc-7e473f7c5cb8",
+    "data": [
+      {
+        "text": "Portuguesa e Caprese",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9344cbc9-5865-4e2d-ad8a-3323f0bb5d96",
+    "data": [
+      {
+        "text": "Portuguesa e Francesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "51e0cc84-e425-4fec-ad4c-c169e1d781eb",
+    "data": [
+      {
+        "text": "Portuguesa e  Mexicana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "41f9f534-c09a-403c-b5bf-28282ab3897c",
+    "data": [
+      {
+        "text": "Portuguesa e Alcachofra",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c1d8f350-fedb-4d93-8a5f-f390394d80f1",
+    "data": [
+      {
+        "text": "Muçarela e Americana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "94fad440-efdb-4eb9-bc88-f0be0efc5c68",
+    "data": [
+      {
+        "text": "Muçarela e Brigadeiro",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "17684e38-aedd-4d1e-84e0-2d74c3f71366",
+    "data": [
+      {
+        "text": "Muçarela e Napolitana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ce7461ae-4c42-4eb9-af3b-2cd2e1db6901",
+    "data": [
+      {
+        "text": "Muçarela e Scamorza",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "78ade7e6-a185-48c5-83f5-0c3430ec5cc4",
+    "data": [
+      {
+        "text": "Muçarela e Caprese",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "45901dbc-8cb5-4235-af22-6b2ae119f8f5",
+    "data": [
+      {
+        "text": "Muçarela e Francesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4051447d-de8c-4b31-93b9-cd6b59784b3d",
+    "data": [
+      {
+        "text": "Muçarela e  Mexicana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4812f2be-017b-495d-9482-2d4ac766c846",
+    "data": [
+      {
+        "text": "Muçarela e Alcachofra",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3dc6d073-6176-4bf3-a33c-4408d0aa71d0",
+    "data": [
+      {
+        "text": "Marguerita e Americana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "98c277a2-e19a-4c9b-aab2-508fcb1dc275",
+    "data": [
+      {
+        "text": "Marguerita e Brigadeiro",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1e964495-4da1-46d5-aced-e2df4a9a617d",
+    "data": [
+      {
+        "text": "Marguerita e Napolitana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8c4d166a-281e-4895-8dea-3da6333544e7",
+    "data": [
+      {
+        "text": "Marguerita e Scamorza",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d98bd2c8-d423-439e-b1c3-5fe724167dd5",
+    "data": [
+      {
+        "text": "Marguerita e Caprese",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a6ebc282-7555-4b3a-b44c-71b0de39cdf9",
+    "data": [
+      {
+        "text": "Marguerita e Francesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "84a1cb00-8106-442f-a9d2-3ce0544de78d",
+    "data": [
+      {
+        "text": "Marguerita e  Mexicana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d2a7c396-cf74-4f4c-b46b-06227be847bd",
+    "data": [
+      {
+        "text": "Marguerita e Alcachofra",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ef5036f8-3c71-421b-9247-e9b2dc322777",
+    "data": [
+      {
+        "text": "Quatro queijos e Alcachofra",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ade74f0c-e513-4db3-93a6-a0e4f13561d3",
+    "data": [
+      {
+        "text": "Quatro queijos e  Mexicana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3ab63c20-3d19-45c6-8368-374b5cf48eee",
+    "data": [
+      {
+        "text": "Quatro queijos e Francesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e1ebfbcf-ddb7-48d3-b2e6-98182391a3bc",
+    "data": [
+      {
+        "text": "Quatro queijos e Caprese",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2cbf1253-4ad9-4017-b24e-0064f2e54f6b",
+    "data": [
+      {
+        "text": "Quatro queijos e Scamorza",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d6e1af07-ca58-4c3d-a73d-d4c4ccaf0a69",
+    "data": [
+      {
+        "text": "Quatro queijos e Napolitana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "250b48da-9989-4cbf-9570-38b6c5dee238",
+    "data": [
+      {
+        "text": "Quatro queijos e Brigadeiro",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eb492836-5ffa-4470-827d-a8ffa4935352",
+    "data": [
+      {
+        "text": "Quatro queijos e Americana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7f04f229-80d6-489c-8cc6-c43b535d2cca",
+    "data": [
+      {
+        "text": "Frango com catupiry e Americana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5c30ef78-8f1c-4e14-b624-db7c892bdd0e",
+    "data": [
+      {
+        "text": "Frango com catupiry e Brigadeiro",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "235fb7a2-9b94-4ab0-81b9-26db813ff774",
+    "data": [
+      {
+        "text": "Frango com catupiry e Napolitana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e7416d28-e1fd-4bb5-90b8-9ec19a781550",
+    "data": [
+      {
+        "text": "Frango com catupiry e Scamorza",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f76a3789-708c-4434-ae09-64d4eebd49ab",
+    "data": [
+      {
+        "text": "Frango com catupiry e Caprese",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b7e39502-5751-40b5-8464-b81d0082834d",
+    "data": [
+      {
+        "text": "Frango com catupiry e Francesa",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "97b329ee-4c65-4b43-a984-f6bf0facf2e8",
+    "data": [
+      {
+        "text": "Frango com catupiry e  Mexicana",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "773251c3-423c-41c3-bf06-cd4881ed12aa",
+    "data": [
+      {
+        "text": "Frango com catupiry e Alcachofra",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7d9c9195-a69d-4d41-8da6-e57bdc004687",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "uma pizza portuguesa e uma de brigadeiro",
+        "meta": "@PizzasMultiplas",
+        "alias": "PizzasMultiplas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

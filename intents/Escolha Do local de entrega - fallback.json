@@ -1,0 +1,40 @@
+{
+  "id": "d7874b47-df48-44f2-8267-a886c1e7cbb4",
+  "parentId": "3de818c2-6ac6-4508-8e61-e9540b11398a",
+  "rootParentId": "3de818c2-6ac6-4508-8e61-e9540b11398a",
+  "name": "Escolha Do local de entrega - fallback",
+  "contexts": [
+    "EscolhaDolocaldeentrega-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "EscolhaDolocaldeentrega.EscolhaDolocaldeentrega-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Estarei aqui qualquer coisa",
+            "Qualquer duvida sobre a entrega só me avisar",
+            "Você pode manda o nome de sua região caso queira consultar."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

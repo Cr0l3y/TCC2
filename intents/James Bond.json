@@ -1,0 +1,35 @@
+{
+  "id": "a0470d0f-42b3-41b9-b522-eab3aecbe1c7",
+  "name": "James Bond",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Meu nome é James Bond, um agente criado para o atendimento da PizzaFast, onde faço a administração do atendimento para recepcionar qualquer cliente, olha não são muitos que pergunta sobre min, então vou lhe conceder uma opção de pizza que até antes era secreta. A minha recomendação é a pizza “Pizza007”. Só fazer o pedido dela normalmente."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

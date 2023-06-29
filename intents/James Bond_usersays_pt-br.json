@@ -1,0 +1,106 @@
+[
+  {
+    "id": "29c4f2fd-fb1e-458f-9dc7-03346bd1530b",
+    "data": [
+      {
+        "text": "James bonde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "749d3306-96f2-42ef-b78f-176ad916d2fa",
+    "data": [
+      {
+        "text": "James",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f5edd103-c2a2-4fd8-9356-9717b2ce845f",
+    "data": [
+      {
+        "text": "quem é",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6d9366d9-ed23-411f-b035-633e3716872b",
+    "data": [
+      {
+        "text": "como você se chama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c027f7ad-aa02-4332-b60b-9e8f7e823097",
+    "data": [
+      {
+        "text": "como vc se chama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "049e5755-8128-4642-8b68-d17134aaa229",
+    "data": [
+      {
+        "text": "como se chama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "186c0344-d4d3-4fe6-931e-0cb1f211147a",
+    "data": [
+      {
+        "text": "quem é você?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2eb0c828-90f2-45ac-958e-5cb73de933c5",
+    "data": [
+      {
+        "text": "Qual seu nome?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

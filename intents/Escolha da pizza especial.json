@@ -1,0 +1,81 @@
+{
+  "id": "a99680c8-507e-4f3c-9844-19a3457cbb47",
+  "name": "Escolha da pizza especial",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Escolhadapizzaespecial-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c99fa6f8-52bb-456a-b905-fe16a0c83402",
+          "name": "number-integer",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "value": "$number-integer",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "$pizzaespecial, ok quantos serão?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8c2960f1-4dc7-49d1-aee8-32c3bb5ea0e7",
+          "name": "pizzaespecial",
+          "required": true,
+          "dataType": "@PizzaEspecial",
+          "value": "$pizzaespecial",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "O que deseja? Temos pizza Prime de Alcachofra, Mexicana, Francesa, Caprese, Scamorza, Napolitana, Brigadeiro e Americana."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ok,  $number-integer $pizzaespecial . Posso confirma seu pedido?",
+            "Seu pedido foi: $number-integer  $pizzanormais  Posso confirma?",
+            "Posso confirma seu pedido $number-integer  $pizzanormais ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

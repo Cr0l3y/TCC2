@@ -1,0 +1,93 @@
+[
+  {
+    "id": "a9a9f484-c79c-433e-8a77-d412b8029710",
+    "data": [
+      {
+        "text": "compra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f59b9508-cc7d-4ed8-8769-a8ab1b2c84dc",
+    "data": [
+      {
+        "text": " q",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c3525462-5fdb-42f3-bd52-4a29fa2f7590",
+    "data": [
+      {
+        "text": "claro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "419415fe-e6b5-4c2a-8abe-a70f54c46b8d",
+    "data": [
+      {
+        "text": "pedido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "70f88d8e-1d97-403b-a4ea-b50e3e0a91de",
+    "data": [
+      {
+        "text": "sim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0889128a-0813-4b43-a6c4-65c61598b206",
+    "data": [
+      {
+        "text": "chamado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e47fc4f6-856c-4f20-8781-ea384b170996",
+    "data": [
+      {
+        "text": "quero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

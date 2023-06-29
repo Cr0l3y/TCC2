@@ -1,0 +1,65 @@
+{
+  "id": "3de818c2-6ac6-4508-8e61-e9540b11398a",
+  "name": "Escolha Do local de entrega",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "EscolhaDolocaldeentrega-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a742010c-be18-47b9-af92-11eecae7b7c0",
+          "name": "locais",
+          "required": true,
+          "dataType": "@Locais",
+          "value": "$locais",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "As entregas estão indisponíveis no momento, atualmente só estamos fazendo retirada em um nos nossos pontos."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Local de entrega na  $locais posso confirma?",
+            "Entregar em  $locais, correto?",
+            "Entrega vai ser em  $locais, certo?",
+            "O local de entrega é $locais ok?",
+            "Seu local é $locais ?",
+            "posso confirmar o local da entrega $locais ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

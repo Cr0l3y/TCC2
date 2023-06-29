@@ -1,0 +1,35 @@
+{
+  "id": "4dfa9c4e-fb05-4573-9db3-1e99cb934f58",
+  "name": "Lista de locais de entrega",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Atualmente a essa é a tabela retirada de pedidos: Asa Sul,  Asa Norte,  Rodoviária do plano piloto,   Setor sudoeste,  Setor de clubes esportivos"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

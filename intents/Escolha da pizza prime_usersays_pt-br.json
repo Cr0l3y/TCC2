@@ -1,0 +1,1068 @@
+[
+  {
+    "id": "4e8f8541-d122-4c5a-ab94-6ed96ced2d32",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mexicanas",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4beb0546-cdd9-4e24-b90d-cd9fce57da7f",
+    "data": [
+      {
+        "text": "america",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d9ab3888-fb58-47fb-9e11-55d7cd9e1990",
+    "data": [
+      {
+        "text": "Americana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "61ce1c0e-1a1d-4584-a6fe-96ba21aa32b3",
+    "data": [
+      {
+        "text": "me",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a Americana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bd99b837-0073-4429-a3de-af45480037a9",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "duas",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Americana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "87b44c08-808d-4237-a8d7-c67f71647fd5",
+    "data": [
+      {
+        "text": "quero",
+        "userDefined": false
+      },
+      {
+        "text": " 2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Americana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1ad8e8bc-2b31-481d-a669-59740211db72",
+    "data": [
+      {
+        "text": "mande ",
+        "userDefined": false
+      },
+      {
+        "text": "a Americana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3610c1dc-22e0-4183-ad71-441cbda139d4",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "a Americana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e8790393-9c14-4c25-8213-34fd0b997301",
+    "data": [
+      {
+        "text": "Brigadeiro",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "575167cd-495d-4b87-94d5-1e4bd3be3db8",
+    "data": [
+      {
+        "text": "me de ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Brigadeiro",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a922e988-84e3-47b7-93cc-222f8d3a6c51",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "duas",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " de Brigadeiro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5dd2623f-033d-4d44-9b59-7ddfd36843a2",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Brigadeiro",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "602289db-800d-493b-991b-8b91b497a921",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Brigadeiro",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3b523576-6f7b-46ac-8eda-c12cc9e542e6",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "Brigadeiro",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f952f27b-a9e7-497c-8a27-eba58f29e062",
+    "data": [
+      {
+        "text": "mande ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Brigadeiro",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e53ce983-e657-40aa-9469-0ac29d4fde6a",
+    "data": [
+      {
+        "text": "Napolitana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ef3ca46f-89bd-4a16-8431-f486d6bfa448",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "duas",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Napolitana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2bfa3e28-e65c-4912-806f-a26a5278d5fc",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Napolitana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e4275ca4-b882-4db6-a6ab-20edb7b9a291",
+    "data": [
+      {
+        "text": "me de ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Napolitana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "89d5cb6e-9db5-415e-a656-67ac22424c9e",
+    "data": [
+      {
+        "text": "quero a ",
+        "userDefined": false
+      },
+      {
+        "text": "Napolitana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fac298ae-d44a-4bdc-a335-93f743accccc",
+    "data": [
+      {
+        "text": "Scamo",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "08f3cd51-ceb7-4c03-8849-39e6939c13e5",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "scamorsa",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "43589556-03e1-405c-8e3f-91bb2ec86cbd",
+    "data": [
+      {
+        "text": "me de ",
+        "userDefined": false
+      },
+      {
+        "text": "duas",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Scamorza",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b3449a66-22cb-4bee-8f84-e30c35fa1ee3",
+    "data": [
+      {
+        "text": "me de",
+        "userDefined": false
+      },
+      {
+        "text": " 2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Scamorza",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "41b55163-3d02-44d1-9446-28eb7f8c6cb2",
+    "data": [
+      {
+        "text": "quero de ",
+        "userDefined": false
+      },
+      {
+        "text": "Scamorza",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "34ccd0ac-1466-4e70-b828-a9d5fa7071e5",
+    "data": [
+      {
+        "text": "Caprese",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "90a1e9b1-6ea1-4ded-919c-1ce2a1437087",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "duas",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Caprese",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "71d676e3-9cbb-44e9-aac8-d8b2df7d12b0",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Caprese",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fdaa6dd8-717e-4cf5-a6a4-e2096b710c1b",
+    "data": [
+      {
+        "text": "me de ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Caprese",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9abab7d1-a998-4b65-baf5-e00a3e69aafe",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "Caprese",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c42126d7-7f15-4124-8b5b-4914a1ff4cf6",
+    "data": [
+      {
+        "text": "Francesa",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6101f8be-c25f-4d2e-8c81-39b12f2648d3",
+    "data": [
+      {
+        "text": "me de ",
+        "userDefined": false
+      },
+      {
+        "text": "duas",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Francesa",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "44efbe4b-9de4-473d-b0a7-21cd9fa697ee",
+    "data": [
+      {
+        "text": "me de ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " Francesa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "492e8ef0-e0da-46b2-b07b-de72f153fa5f",
+    "data": [
+      {
+        "text": "quero a ",
+        "userDefined": false
+      },
+      {
+        "text": "Francesa",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8bc717cf-3fde-468a-8805-980cc3e098ab",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "Francesa",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "66999050-603f-41b8-8408-eb3082e70916",
+    "data": [
+      {
+        "text": "quero",
+        "userDefined": false
+      },
+      {
+        "text": " 2",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexicana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1539fc9e-564d-4c65-9537-ab161a2654ab",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "duas",
+        "meta": "@sys.number-integer",
+        "alias": "quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexicana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d1360a1c-5d4a-4e49-8ab6-bf744f27915b",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "uma pizza",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexicana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c430bc06-8cce-49d0-8139-f45e7235c23c",
+    "data": [
+      {
+        "text": "quero a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexicana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "039f8361-e7ac-41d9-9a0c-06730f3a1847",
+    "data": [
+      {
+        "text": "me de ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexicana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "85d64fb8-9cb8-405c-91e7-475600a28299",
+    "data": [
+      {
+        "text": "Mexicana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0c2e60ef-8ca3-489f-9929-ebc9338162a4",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexicana",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "989af451-6ec7-45cc-9d66-1404dff11495",
+    "data": [
+      {
+        "text": "Alcachofra",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dfd61ee3-4408-44fe-aee5-b2c9e87b36b5",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Alcachofra",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "76463abf-8cf0-47d6-ab70-92ed6f68dc2d",
+    "data": [
+      {
+        "text": "quero pizza",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Alcachofra",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a9537b2b-edd5-4b44-a4ce-b32de0de4870",
+    "data": [
+      {
+        "text": "me de ",
+        "userDefined": false
+      },
+      {
+        "text": "Alcachofra",
+        "meta": "@PizzasPrimes",
+        "alias": "PizzasPrimes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

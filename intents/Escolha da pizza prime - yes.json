@@ -1,0 +1,51 @@
+{
+  "id": "3d2574a3-6e47-4923-b5db-8aa25c97a26b",
+  "parentId": "4de59fb9-a533-4e2e-ae4f-975b549c39b1",
+  "rootParentId": "4de59fb9-a533-4e2e-ae4f-975b549c39b1",
+  "name": "Escolha da pizza prime - yes",
+  "auto": true,
+  "contexts": [
+    "Escolhadapizzaprime-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Escolhadapizzaprime.Escolhadapizzaprime-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Tudo certo #Escolhadapizzaprime-followup.PizzasPrimes foi adicionado a sua compra.",
+            "Ok estamos preparando seu pedido #Escolhadapizzaprime-followup.PizzasPrimes foi adicionado a sua compra.",
+            "Aguarde enquanto estamos fazendo seu pedido... #Escolhadapizzaprime-followup.PizzasPrimes foi adicionado a sua compra."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Por favor, me informe qual será o tamanho da sua pizza. (P, M ou G)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

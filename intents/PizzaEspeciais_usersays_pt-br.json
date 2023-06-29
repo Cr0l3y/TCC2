@@ -1,0 +1,112 @@
+[
+  {
+    "id": "e7b7bc8e-b579-4fe6-a6da-fe4ae84360bc",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzas",
+        "userDefined": false
+      },
+      {
+        "text": " especiais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "04aaf597-2186-45d7-abf0-2b740f2e6108",
+    "data": [
+      {
+        "text": "quero as ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzas",
+        "userDefined": false
+      },
+      {
+        "text": " especiais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6bed0aa1-2beb-47f8-965b-0103d7d16cfd",
+    "data": [
+      {
+        "text": "Tipos de ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "userDefined": false
+      },
+      {
+        "text": " especiais.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "995cf831-d3e3-4979-8aec-14dd19ebc3d6",
+    "data": [
+      {
+        "text": "melhores ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1278eb0a-9567-4955-bf4e-4fbe4721962b",
+    "data": [
+      {
+        "text": "3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9f8a5890-5f46-41eb-bd07-b8baed1837a7",
+    "data": [
+      {
+        "text": "pizza",
+        "userDefined": false
+      },
+      {
+        "text": " especial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

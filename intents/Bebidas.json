@@ -1,0 +1,67 @@
+{
+  "id": "f79435f7-e4be-4628-968f-79d4162a41f5",
+  "name": "Bebidas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Bebidas-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "88c31f8a-4c0b-4573-8169-016e21d44c45",
+          "name": "bebidas",
+          "required": true,
+          "dataType": "@Bebidas",
+          "value": "$bebidas",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Não entendi, pode dizer novamente qual será sua bebida"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sua bebida selecionada foi $bebidas, posso confirmar?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

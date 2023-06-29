@@ -1,0 +1,56 @@
+[
+  {
+    "value": "Mochila",
+    "synonyms": [
+      "inventario"
+    ]
+  },
+  {
+    "value": "bolsa",
+    "synonyms": [
+      "bolsa"
+    ]
+  },
+  {
+    "value": "estoque",
+    "synonyms": [
+      "estoque"
+    ]
+  },
+  {
+    "value": "inventario",
+    "synonyms": [
+      "inventario"
+    ]
+  },
+  {
+    "value": "Carrinho",
+    "synonyms": [
+      "Carrinho"
+    ]
+  },
+  {
+    "value": "mochila",
+    "synonyms": [
+      "mochila"
+    ]
+  },
+  {
+    "value": "box",
+    "synonyms": [
+      "box"
+    ]
+  },
+  {
+    "value": "caixa",
+    "synonyms": [
+      "caixa"
+    ]
+  },
+  {
+    "value": "pedido",
+    "synonyms": [
+      "pedido"
+    ]
+  }
+]

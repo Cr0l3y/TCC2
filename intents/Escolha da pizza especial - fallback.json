@@ -1,0 +1,40 @@
+{
+  "id": "3265912a-90a5-4890-8351-d05af337a667",
+  "parentId": "a99680c8-507e-4f3c-9844-19a3457cbb47",
+  "rootParentId": "a99680c8-507e-4f3c-9844-19a3457cbb47",
+  "name": "Escolha da pizza especial - fallback",
+  "contexts": [
+    "Escolhadapizzaespecial-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Escolhadapizzaespecial.Escolhadapizzaespecial-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            ":/ Qualquer coisa estarei aqui",
+            "Tudo bem! ficarei esperando seu retorno",
+            "No seu tempo"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

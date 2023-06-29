@@ -1,0 +1,45 @@
+[
+  {
+    "value": "Coca-cola",
+    "synonyms": [
+      "Coca-cola",
+      "coca",
+      "cola",
+      "cooca"
+    ]
+  },
+  {
+    "value": "suco de laranja",
+    "synonyms": [
+      "suco de",
+      "laranja",
+      "cuso laranja"
+    ]
+  },
+  {
+    "value": "suco de maracujá",
+    "synonyms": [
+      "suco de maracuja",
+      "maracuja",
+      "maracuj",
+      "mara"
+    ]
+  },
+  {
+    "value": "sprite",
+    "synonyms": [
+      "sprity",
+      "esprait",
+      "esprit"
+    ]
+  },
+  {
+    "value": "redbull",
+    "synonyms": [
+      "redbull",
+      "energetico",
+      "redebul",
+      "redebu"
+    ]
+  }
+]

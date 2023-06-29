@@ -1,0 +1,40 @@
+{
+  "id": "3ef9ae69-42b0-4426-ab2f-340f32c561c8",
+  "parentId": "4de59fb9-a533-4e2e-ae4f-975b549c39b1",
+  "rootParentId": "4de59fb9-a533-4e2e-ae4f-975b549c39b1",
+  "name": "Escolha da pizza prime - fallback",
+  "contexts": [
+    "Escolhadapizzaprime-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Escolhadapizzaprime.Escolhadapizzaprime-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            ":/ Qualquer coisa estarei aqui",
+            "Tudo bem! ficarei esperando seu retorno",
+            "No seu tempo"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

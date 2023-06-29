@@ -1,0 +1,42 @@
+{
+  "id": "ff19decc-d910-4fc6-9ac1-faeee116212d",
+  "parentId": "ef9115b7-41a0-486d-bd57-a1c7da256d6d",
+  "rootParentId": "ef9115b7-41a0-486d-bd57-a1c7da256d6d",
+  "name": "Confirma Carrinho",
+  "auto": true,
+  "contexts": [
+    "Escolhadeumapizzanormal-followup",
+    "Escolhadapizzaprime-followup",
+    "EscolhaDolocaldeentrega-followup",
+    "localdeentregadomeupedido-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "localdeentregadomeupedido.localdeentregadomeupedido-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "#localdeentregadomeupedido-followup esta sendo realizada"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

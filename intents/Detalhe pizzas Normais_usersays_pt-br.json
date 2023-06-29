@@ -1,0 +1,41 @@
+[
+  {
+    "id": "41d8b0cd-7e83-46b4-af04-4125bd4d40d1",
+    "data": [
+      {
+        "text": "Detalhes pizzas Normais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1680316a-45b7-47ce-8733-84bfce1b923a",
+    "data": [
+      {
+        "text": "Detalhes das pizza Normais",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1127ca4b-77f8-4dcc-bc1b-bf68e0bc82d4",
+    "data": [
+      {
+        "text": "Detalhe pizzas normais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

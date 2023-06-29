@@ -1,0 +1,218 @@
+[
+  {
+    "id": "96754b1e-f9b5-402c-91a6-14c6338fe147",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5e6c54ea-e944-4da8-82d3-95053d697b61",
+    "data": [
+      {
+        "text": "quanto tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "549368cb-6d74-486e-9c60-4c89f4fe7e6b",
+    "data": [
+      {
+        "text": "hora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5d2e1ba4-de8d-4aa1-a1b8-30a90e2204c8",
+    "data": [
+      {
+        "text": "tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cbe12711-e5d2-4152-85dc-f30ca03ee1eb",
+    "data": [
+      {
+        "text": "tempo que vai demorar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6962dfae-dbbe-4016-a2a6-65cf762ec03c",
+    "data": [
+      {
+        "text": "tempo de espera?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d68fced1-3953-47f0-8cc4-df7ede6a5303",
+    "data": [
+      {
+        "text": "que horas vai sair?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dd33342f-804c-4c56-8b6e-c72a46d76bd4",
+    "data": [
+      {
+        "text": "que horas vai sair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "de0a185e-7b42-40a8-a13e-a6115545da5b",
+    "data": [
+      {
+        "text": "quantos minutos vai demorar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e5bfbfbf-9ecc-4a4b-9f2e-a416529fcdca",
+    "data": [
+      {
+        "text": "quantos minutos vai demorar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "44dc6433-60c0-4180-994d-087f7fcdcb70",
+    "data": [
+      {
+        "text": "quanto tempo vai demorar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a4d3cf95-849f-406c-af84-a37f0aab73ad",
+    "data": [
+      {
+        "text": "quanto tempo vai dermorar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "97f747a9-d8fa-432c-a11a-ff986d28c043",
+    "data": [
+      {
+        "text": "tempo ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "userDefined": false
+      },
+      {
+        "text": " sair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "75694cbe-a357-4074-bfa8-b667413f36a0",
+    "data": [
+      {
+        "text": "Quanto tempo demora ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "userDefined": false
+      },
+      {
+        "text": " sair ",
+        "userDefined": false
+      },
+      {
+        "text": "uma pizza",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

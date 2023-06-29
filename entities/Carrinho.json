@@ -1,0 +1,9 @@
+{
+  "id": "361423ea-1bb3-4650-907a-bdddfc7e3f03",
+  "name": "Carrinho",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

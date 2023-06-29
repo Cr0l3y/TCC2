@@ -1,0 +1,89 @@
+{
+  "id": "862ab0fb-e2b6-47a6-85ef-7cb377da9b21",
+  "name": "Escolha pizzas multiplas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Escolhadeumapizzanormal-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "Escolhadapizzaprime-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "Escolhapizzasmultiplas-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d3ec8ae7-71ec-4a4b-80d8-b73a07313f1a",
+          "name": "PizzasMultiplas",
+          "required": true,
+          "dataType": "@PizzasMultiplas",
+          "value": "$PizzasMultiplas",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Confirma sua pizza múltipla?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4e2dc4ce-cd77-4703-b9e5-b00f16d73a0e",
+          "name": "quantidade",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "value": "$quantidade",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "$pizzanormais, ok quantos serão?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Múltiplas pizzas adicionado a sua compra $quantidade, $PizzasMultiplas, Posso confirma seu pedido?",
+            "Suas múltiplas pizzas foram $quantidade $PizzasMultiplas, Posso confirma seu pedido?",
+            "$quantidade $PizzasMultiplas adicionada ao seu carrinho, Posso confirma seu pedido?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

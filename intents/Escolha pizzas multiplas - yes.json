@@ -1,0 +1,51 @@
+{
+  "id": "d49de12b-698d-4dad-8dd9-d1491569dead",
+  "parentId": "862ab0fb-e2b6-47a6-85ef-7cb377da9b21",
+  "rootParentId": "862ab0fb-e2b6-47a6-85ef-7cb377da9b21",
+  "name": "Escolha pizzas multiplas - yes",
+  "auto": true,
+  "contexts": [
+    "Escolhadeumapizzanormal-followup",
+    "Escolhadapizzaprime-followup",
+    "Escolhapizzasmultiplas-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Escolhapizzasmultiplas.Escolhapizzasmultiplas-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Tudo certo! #Escolhapizzasmultiplas-followup.PizzasMultiplas foi adicionado a sua compra"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Por favor, me informe qual será o tamanho da sua pizza (P, M ou G)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

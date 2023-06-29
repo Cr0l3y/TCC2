@@ -1,0 +1,409 @@
+[
+  {
+    "id": "2bd27b87-4b18-4007-b67b-86f564023b25",
+    "data": [
+      {
+        "text": "Setor de clubes esportivos",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "782a52f2-a710-4761-b93d-1e9eeb21662c",
+    "data": [
+      {
+        "text": "Setor sudoeste",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5c54ad1a-7cc9-4c9e-804e-fa2ee7fc876f",
+    "data": [
+      {
+        "text": "Rodoviária do plano piloto",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "064a2c04-f561-4772-bde6-2c882cd7d335",
+    "data": [
+      {
+        "text": "Asa Norte",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "71c82e49-c988-4634-95b7-1f6eceb04dfc",
+    "data": [
+      {
+        "text": "Asa sul",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "afc31f16-508a-4d8a-b982-fb944a2b65be",
+    "data": [
+      {
+        "text": "entrega no entrega no ",
+        "userDefined": false
+      },
+      {
+        "text": "Setor de clubes",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a825caf9-18d8-4c2b-858b-c1e4d31ef6e5",
+    "data": [
+      {
+        "text": "tem entrega no ",
+        "userDefined": false
+      },
+      {
+        "text": "Setor de clubes",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "820af469-70a9-40ae-8915-37e73d31c794",
+    "data": [
+      {
+        "text": "entrega no ",
+        "userDefined": false
+      },
+      {
+        "text": "Setor de clubes",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b7d35883-4772-451b-b5df-95f23281cd50",
+    "data": [
+      {
+        "text": "tem entrega no ",
+        "userDefined": false
+      },
+      {
+        "text": "Setor de clubes esportivos",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f7ee83eb-c023-429d-8c6a-e61e96ef954d",
+    "data": [
+      {
+        "text": "entrega no ",
+        "userDefined": false
+      },
+      {
+        "text": "Setor de clubes esportivos",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9a607500-9ff5-4c6d-9378-6fbb1213f2cc",
+    "data": [
+      {
+        "text": "entrega no ",
+        "userDefined": false
+      },
+      {
+        "text": "Setor de clubes esportivos",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "614aeacf-fa1e-45cd-b87d-0dfc5b954b7f",
+    "data": [
+      {
+        "text": "entrega no ",
+        "userDefined": false
+      },
+      {
+        "text": "Setor sudoeste",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f5009a50-b68b-4d45-8bdb-73ffed776079",
+    "data": [
+      {
+        "text": "tem entrega no ",
+        "userDefined": false
+      },
+      {
+        "text": "Setor sudoeste",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9de216dd-02c4-4c7b-a3de-3961cf0e1eef",
+    "data": [
+      {
+        "text": "entrega no ",
+        "userDefined": false
+      },
+      {
+        "text": "Setor sudoeste",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d0e9383c-522d-47f6-b2ba-4756ccc06d55",
+    "data": [
+      {
+        "text": "Rodoviaria do plano piloto",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9b7eedd0-ea25-473e-a27d-065b89b557cf",
+    "data": [
+      {
+        "text": "tem entrega na ",
+        "userDefined": false
+      },
+      {
+        "text": "Rodoviária do plano piloto",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c511801b-89d6-47ab-b4fd-7c83a0f0f95e",
+    "data": [
+      {
+        "text": "entrega na ",
+        "userDefined": false
+      },
+      {
+        "text": "Rodoviaria do plano piloto",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a4bf9652-3d5e-4092-92e6-089d28caec77",
+    "data": [
+      {
+        "text": "tem entrega na ",
+        "userDefined": false
+      },
+      {
+        "text": "Asa Norte",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "df07dc5e-fb1a-4f41-ae08-de3ee5a34bef",
+    "data": [
+      {
+        "text": "entrega na ",
+        "userDefined": false
+      },
+      {
+        "text": "Asa Norte",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f97ec18a-0700-432b-850f-941442cb92d3",
+    "data": [
+      {
+        "text": "tem entraga na ",
+        "userDefined": false
+      },
+      {
+        "text": "Asa sul",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fe970b64-a412-4b37-8496-9493b0f716c1",
+    "data": [
+      {
+        "text": "entrega na ",
+        "userDefined": false
+      },
+      {
+        "text": "Asa sul",
+        "meta": "@Locais",
+        "alias": "locais",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "561e04df-756c-4420-aa73-0f35dd810d24",
+  "name": "PTAM",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

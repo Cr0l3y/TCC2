@@ -1,0 +1,9 @@
+{
+  "id": "edb82990-e01f-40ef-a30e-995057a50ebc",
+  "name": "PizzasPrimes",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

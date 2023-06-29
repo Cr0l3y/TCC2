@@ -1,0 +1,49 @@
+{
+  "id": "88f26807-318c-4788-b367-a673fc45a9d7",
+  "parentId": "42cefb39-137c-4b30-b1ad-f697c7602181",
+  "rootParentId": "42cefb39-137c-4b30-b1ad-f697c7602181",
+  "name": "Escolha de uma pizza normal - yes",
+  "auto": true,
+  "contexts": [
+    "Escolhadeumapizzanormal-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Escolhadeumapizzanormal.Escolhadeumapizzanormal-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Tudo certo! #Escolhadeumapizzanormal-followup.PizzaNormais foi adicionado a sua compra."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Por favor, me informe qual será o tamanho da sua pizza (P, M ou G)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "46eee2d1-0cea-41bf-9dfb-5967d8618c9e",
+  "name": "PizzaNormais",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

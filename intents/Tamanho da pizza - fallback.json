@@ -1,0 +1,38 @@
+{
+  "id": "d01d405c-6e56-42ca-b57e-3f97bd2e6dbd",
+  "parentId": "f6229c62-3982-4e6d-8231-679586c2a4cd",
+  "rootParentId": "f6229c62-3982-4e6d-8231-679586c2a4cd",
+  "name": "Tamanho da pizza - fallback",
+  "contexts": [
+    "Tamanhodapizza-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Tamanhodapizza.Tamanhodapizza-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Não entendi, reformule e diga novamente"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

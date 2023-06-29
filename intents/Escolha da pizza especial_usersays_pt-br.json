@@ -1,0 +1,326 @@
+[
+  {
+    "id": "13d3a5b4-221c-4276-8b16-dc9d0a142960",
+    "data": [
+      {
+        "text": "ched",
+        "meta": "@PizzaEspecial",
+        "alias": "pizzaespecial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3661bc39-27db-4573-a173-a84a6db42140",
+    "data": [
+      {
+        "text": "chad",
+        "meta": "@PizzaEspecial",
+        "alias": "pizzaespecial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ddb1574f-f9bb-48dd-84a3-5c32f0490cab",
+    "data": [
+      {
+        "text": "Foi sem Querer Queijando",
+        "meta": "@PizzaEspecial",
+        "alias": "pizzaespecial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6fb3b3af-80e3-497d-ae76-c1f8ad552f74",
+    "data": [
+      {
+        "text": "Pizza da Morte",
+        "meta": "@PizzaEspecial",
+        "alias": "pizzaespecial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "414f029b-f374-4624-9141-3bc337d33bab",
+    "data": [
+      {
+        "text": "Não Tem Pão, Come Pizza",
+        "meta": "@PizzaEspecial",
+        "alias": "pizzaespecial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6c56014d-bfce-4688-82f1-b4721c5d3899",
+    "data": [
+      {
+        "text": "La casa de pizza",
+        "meta": "@PizzaEspecial",
+        "alias": "pizzaespecial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "617bf0fd-f5a9-4fb2-a1a6-c955e6c9c0a1",
+    "data": [
+      {
+        "text": "me da ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lula ladrão",
+        "meta": "@PizzaEspecial",
+        "alias": "pizzaespecial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1afceee1-9d7d-4dfe-81e9-eab110964371",
+    "data": [
+      {
+        "text": "quero a ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lula",
+        "meta": "@PizzaEspecial",
+        "alias": "pizzaespecial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "419a1342-dfea-495e-82d3-5b337c1556a6",
+    "data": [
+      {
+        "text": "vou querer a ",
+        "userDefined": false
+      },
+      {
+        "text": "ched",
+        "meta": "@PizzaEspecial",
+        "alias": "pizzaespecial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "08bb59e8-7625-4b35-a762-395c27512801",
+    "data": [
+      {
+        "text": "quero a ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza ched",
+        "meta": "@PizzaEspecial",
+        "alias": "pizzaespecial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "116fba06-e34a-409a-bbe3-fc9e8ad2fa6e",
+    "data": [
+      {
+        "text": "Picanha",
+        "meta": "@PizzaEspecial",
+        "alias": "pizzaespecial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fa005cc8-97a2-44c4-8e9b-9cfc30a863fd",
+    "data": [
+      {
+        "text": "Picanha ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Lula",
+        "meta": "@PizzaEspecial",
+        "alias": "pizzaespecial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2cfd240c-e754-415d-9a73-cdfcfea32948",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@sys.number-integer",
+        "alias": "number-integer",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chad",
+        "meta": "@PizzaEspecial",
+        "alias": "pizzaespecial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6b712d16-4037-4730-bfc1-8f42d2c4108b",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.number-integer",
+        "alias": "number-integer",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chad",
+        "meta": "@PizzaEspecial",
+        "alias": "pizzaespecial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "57119c2a-0ace-46f8-898e-cd02a182daef",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "number-integer",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chad",
+        "meta": "@PizzaEspecial",
+        "alias": "pizzaespecial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "11009bc9-46b2-4c5d-a240-2731e69f9be9",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.number-integer",
+        "alias": "number-integer",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chad",
+        "meta": "@PizzaEspecial",
+        "alias": "pizzaespecial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

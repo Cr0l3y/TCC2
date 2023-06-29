@@ -1,0 +1,109 @@
+{
+  "id": "d7b29999-5d09-4403-8424-5eaf20d3299f",
+  "parentId": "a78f58cc-d874-40fe-844c-1ef3d9a1b981",
+  "rootParentId": "a78f58cc-d874-40fe-844c-1ef3d9a1b981",
+  "name": "Tempo do pedido - yes",
+  "auto": true,
+  "contexts": [
+    "Tempodopedido-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Tempodopedido.Tempodopedido-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Essa é nossa tabela completa do tempo de cada local de retirada do pedido:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Media de tempo é de 45min"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Na Asa Sul o tempo médio é de 40min"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Na Asa Norte o tempo médio é de 50min"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Na Rodoviária do plano piloto o tempo médio é de 40min"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "No Setor sudoeste o tempo médio é de 60min"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "No Setor de clubes esportivos tempo médio é de 70min"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para finalizar aguarde ou insira \"Finalizar\", para voltar ao menu insira \"compra\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

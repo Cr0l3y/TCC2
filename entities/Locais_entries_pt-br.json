@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Asa Sul",
+    "synonyms": [
+      "Asa Sul",
+      "aza sul",
+      "sul"
+    ]
+  },
+  {
+    "value": "Asa Norte",
+    "synonyms": [
+      "Asa Norte",
+      "aza norte",
+      "norte"
+    ]
+  },
+  {
+    "value": "Rodoviaria do plano piloto",
+    "synonyms": [
+      "Rodoviaria",
+      "Rodoviaria do plano piloto",
+      "plano piloto",
+      "rodo"
+    ]
+  },
+  {
+    "value": "Setor sudoeste",
+    "synonyms": [
+      "Setor sudoeste",
+      "sudoeste"
+    ]
+  },
+  {
+    "value": "Setor de clubes esportivos",
+    "synonyms": [
+      "Setor de clubes esportivos",
+      "clubes esportivos",
+      "Setor de clubes"
+    ]
+  }
+]

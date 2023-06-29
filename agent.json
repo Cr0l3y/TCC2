@@ -1,0 +1,96 @@
+{
+  "description": "Programa desenvolvimento de atendimento para uma pizzaria",
+  "language": "pt-br",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "PizzaFast",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "",
+    "welcomeIntentSignInRequired": true,
+    "startIntents": [
+      {
+        "intentId": "4a519a9a-0ae0-4e71-9815-28ab8fb505cc",
+        "signInRequired": false
+      },
+      {
+        "intentId": "42cefb39-137c-4b30-b1ad-f697c7602181",
+        "signInRequired": false
+      },
+      {
+        "intentId": "3de818c2-6ac6-4508-8e61-e9540b11398a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "58e95cf3-245f-4c33-9eec-29558b1924de",
+        "signInRequired": false
+      },
+      {
+        "intentId": "8cea7c0f-1280-472d-bca9-85adc939f819",
+        "signInRequired": false
+      },
+      {
+        "intentId": "4dfa9c4e-fb05-4573-9db3-1e99cb934f58",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a78f58cc-d874-40fe-844c-1ef3d9a1b981",
+        "signInRequired": false
+      },
+      {
+        "intentId": "7f2653bb-c2b5-45ef-9843-16be09a01b69",
+        "signInRequired": false
+      },
+      {
+        "intentId": "896c0709-6cb0-497a-a2b2-401d12076531",
+        "signInRequired": false
+      },
+      {
+        "intentId": "5addec56-f8f9-40c4-8268-bc7ce940ea25",
+        "signInRequired": false
+      },
+      {
+        "intentId": "f6229c62-3982-4e6d-8231-679586c2a4cd",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ee5ba229-3a9b-4acd-a690-1481d6f59880",
+        "signInRequired": false
+      },
+      {
+        "intentId": "335d4cba-a569-4ab8-8eb2-7a92b1a8815f",
+        "signInRequired": false
+      },
+      {
+        "intentId": "f79435f7-e4be-4628-968f-79d4162a41f5",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [
+      "7f2653bb-c2b5-45ef-9843-16be09a01b69"
+    ],
+    "voiceType": "VOICE_TYPE_UNSPECIFIED",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "PROTOCOL_VERSION_UNSPECIFIED",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/Buenos_Aires",
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "7a0288cb5d17400ca1bbba9008098720",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}

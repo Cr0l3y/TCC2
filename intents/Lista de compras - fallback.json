@@ -1,0 +1,39 @@
+{
+  "id": "07b2bfb7-4d5b-46c6-a577-b4176e1b4f16",
+  "parentId": "ef9115b7-41a0-486d-bd57-a1c7da256d6d",
+  "rootParentId": "ef9115b7-41a0-486d-bd57-a1c7da256d6d",
+  "name": "Lista de compras - fallback",
+  "contexts": [
+    "Carrinho-followup",
+    "Listadecompras-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Listadecompras.Listadecompras-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Agradecemos a preferência a PizzaCrow."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

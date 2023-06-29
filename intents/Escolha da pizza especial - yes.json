@@ -1,0 +1,51 @@
+{
+  "id": "b4d93599-4d79-47ac-9af3-7fe64038ee62",
+  "parentId": "a99680c8-507e-4f3c-9844-19a3457cbb47",
+  "rootParentId": "a99680c8-507e-4f3c-9844-19a3457cbb47",
+  "name": "Escolha da pizza especial - yes",
+  "auto": true,
+  "contexts": [
+    "Escolhadapizzaespecial-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Escolhadapizzaespecial.Escolhadapizzaespecial-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Tudo certo #Escolhadapizzaespecial-followup.PizzaEspecial foi adicionado a sua compra",
+            "Ok estamos preparando seu pedido #Escolhadapizzaespecial-followup.PizzaEspecial foi adicionado a sua compra",
+            "Aguarde enquanto estamos fazendo seu pedido... #Escolhadapizzaespecial-followup.PizzaEspecial foi adicionado a sua compra"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Por favor, me informe qual será o tamanho da sua pizza (P, M ou G)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

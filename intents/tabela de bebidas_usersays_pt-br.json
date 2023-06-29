@@ -1,0 +1,32 @@
+[
+  {
+    "id": "88782e06-3e73-4ddb-b17b-9b4eedc31a23",
+    "data": [
+      {
+        "text": "tabela de ",
+        "userDefined": false
+      },
+      {
+        "text": "bebidas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e55f0977-1901-4f1b-9615-ac17096a1342",
+    "data": [
+      {
+        "text": "lista de bebida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

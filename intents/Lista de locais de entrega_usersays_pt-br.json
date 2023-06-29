@@ -1,0 +1,101 @@
+[
+  {
+    "id": "c70e2992-65ac-4d4f-a245-e2d0875fd418",
+    "data": [
+      {
+        "text": "4",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d5d53a5f-3734-4f02-9d69-d434669b8d87",
+    "data": [
+      {
+        "text": "quero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "05a25c9b-e315-4290-9321-6596e95952bf",
+    "data": [
+      {
+        "text": "locais",
+        "userDefined": true
+      },
+      {
+        "text": " de entrega",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0d777382-f5e7-4d38-bf0c-7fefb79d6ffa",
+    "data": [
+      {
+        "text": "lista de locais",
+        "userDefined": true
+      },
+      {
+        "text": " de entrega",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8f52cd9a-ced5-49c3-954b-69e4d761d2a5",
+    "data": [
+      {
+        "text": "regiões",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e294c8f2-7f2d-498c-ae2b-164cf8324b07",
+    "data": [
+      {
+        "text": "regioes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "08d3ebf3-5641-4a24-984c-e5bec0bae351",
+    "data": [
+      {
+        "text": "tabela",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

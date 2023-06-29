@@ -1,0 +1,568 @@
+[
+  {
+    "id": "c461bd90-e2df-4887-a456-b3469d492e95",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "Quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muçarela",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "af9ababa-df2c-4933-80f3-8df4ddabdfa7",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "Quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "marguerita",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7cc8c724-81a4-4e05-95b2-7b31787ae656",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "Quantidade",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "portuguesas",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6b117c8a-83ef-4786-abcd-221f92bcea94",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "Quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "4 queijos",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fdc756ef-43dd-4151-b1d8-1c64eb73db84",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "Quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "4 queijos",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "df3cf116-69a1-423e-b925-462d728f1553",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "Quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "portuguesas",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d9d0d4ae-2a78-4fb7-8fa5-e71dc22deb00",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "Quantidade",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "quatro queijos",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0b3f376b-a6da-42c3-9d03-541039fb0a70",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "Quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "marguerita",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8b74ddbf-c26a-43f7-a14e-892f5155bffe",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "Quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muçarela",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8f1395d7-caee-4610-abdf-18a2a17e3361",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "duas",
+        "meta": "@sys.number",
+        "alias": "Quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muçarela",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8f151730-24fe-4da0-82b6-44238fe0eb58",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "duas",
+        "meta": "@sys.number",
+        "alias": "Quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "marguerita",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c8899707-5d83-4f48-b5ac-4e4eefccda9a",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "duas",
+        "meta": "@sys.number",
+        "alias": "Quantidade",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "quatro queijos",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9b50c367-4c2e-4fda-a8e0-c38fd5315a52",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "duas",
+        "meta": "@sys.number",
+        "alias": "Quantidade",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "portuguesas",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b728d955-fb2e-4133-9324-39e4b103e383",
+    "data": [
+      {
+        "text": "Quatro queijos",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5ce1ea46-f842-4487-93b6-7e11c274106e",
+    "data": [
+      {
+        "text": "Portuguesa",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cd129c3f-0879-464c-87e7-148cb291e1ff",
+    "data": [
+      {
+        "text": "Muçarela",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d61cb453-e368-41a1-b689-0dcd85e9ee28",
+    "data": [
+      {
+        "text": "frango",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "180609ad-b71a-4bad-8f92-6d34ca312d86",
+    "data": [
+      {
+        "text": "Frango com catupiry",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "62c0d1bc-26bc-4c76-8a92-b6b2fce62150",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "4 queijos",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b9acce45-f0bd-4b62-bc04-794b208b18aa",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "Quatro queijos",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "04a24dfd-aeae-433b-a700-278e3234c99c",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "Marguerita",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "279bed86-d41f-40de-b67d-536ec4c57dd6",
+    "data": [
+      {
+        "text": "Marguerita",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6ae2e88b-881e-4cc8-ad27-e7b8473033fa",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "Quantidade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muçarela",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "725340fd-03e3-4cd7-a495-f9d5725bcea8",
+    "data": [
+      {
+        "text": "Quero ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "Quantidade",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "portuguesas",
+        "meta": "@PizzaNormais",
+        "alias": "pizzanormais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

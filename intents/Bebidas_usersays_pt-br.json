@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1a242858-1a84-43a6-8b8c-9e525cb58b91",
+    "data": [
+      {
+        "text": "Coca-Cola",
+        "meta": "@Bebidas",
+        "alias": "bebidas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f62b14f3-9191-4bc5-b520-b12236cf2c21",
+    "data": [
+      {
+        "text": "Sprite",
+        "meta": "@Bebidas",
+        "alias": "bebidas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f893972e-5734-481b-8e9e-498d3b763cff",
+    "data": [
+      {
+        "text": "redbull",
+        "meta": "@Bebidas",
+        "alias": "bebidas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "98175c83-d3ac-415e-aef7-923745c8051c",
+    "data": [
+      {
+        "text": "suco de maracujá",
+        "meta": "@Bebidas",
+        "alias": "bebidas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "040b5aac-3de4-4a31-beb3-38bd0e154084",
+    "data": [
+      {
+        "text": "suco de laranja",
+        "meta": "@Bebidas",
+        "alias": "bebidas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

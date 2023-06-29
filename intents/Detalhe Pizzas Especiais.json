@@ -1,0 +1,95 @@
+{
+  "id": "70e81c29-7fd9-4d5a-8dac-f95079ec0a53",
+  "name": "Detalhe Pizzas Especiais",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "-Aqui estão os detalhes das pizzas especiais:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "-Chad: Milhos, tomate, queijo-provolone, gorgonzola, muçarela, parmesão, carne desfiada de Wagyu, frango desfiada e chimichurri."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "-Picanha do lula: pizza que leva a massa e tem abóbora e sal de recheio, sem queijo sem presunto sem nada a mais. Tem um pouco de cachaça que não pode faltar né, meus companheiros. Faz o L."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "- La casa de pizza: Composição de pizza: Tomate, milho, requeijão, batata, mix de pimenta, manteiga e presunto."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "-Não Tem Pão, Come Pizza: Feita com massa de pão pode conter manteiga, queijo tomate pimenta dedo-de-moça, espinafre e massa de brioches."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "-Pizza da Morte: Pizza explosiva de sabores e contraste, só os fortes ira consumir (Recomendado não consumir sem bebida) pode conter Pimenta dedo-de-moça, Pimenta cumari, Pimenta tabasco, tomate, queijo chocolate amargo e fatias pequenas de uvas de Carménère."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "-Foi sem Querer Queijando: Mesmos ingredientes da 4 queijos só que com o dobro de queijo: queijo-provolone, gorgonzola, muçarela, parmesão e tomate."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

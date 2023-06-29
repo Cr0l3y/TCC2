@@ -1,0 +1,51 @@
+{
+  "id": "05dd72c5-776d-486b-92a5-70157eb2982e",
+  "parentId": "3de818c2-6ac6-4508-8e61-e9540b11398a",
+  "rootParentId": "3de818c2-6ac6-4508-8e61-e9540b11398a",
+  "name": "Escolha Do local de entrega - yes",
+  "auto": true,
+  "contexts": [
+    "EscolhaDolocaldeentrega-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "EscolhaDolocaldeentrega.EscolhaDolocaldeentrega-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ok seu local de entrega foi destinado para #EscolhaDolocaldeentrega-followup.Locais",
+            "Seu local de entrega foi atualizado para #EscolhaDolocaldeentrega-followup.Locais",
+            "Entrega destinado para #EscolhaDolocaldeentrega-followup.Locais"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para saber quanto tempo seu pedido irá demorar, pergunte por \"tempo\"."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

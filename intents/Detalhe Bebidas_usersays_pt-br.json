@@ -1,0 +1,49 @@
+[
+  {
+    "id": "85d83a87-476f-4eb1-8e8c-c20d421b40a5",
+    "data": [
+      {
+        "text": "Detalhe Bebida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8d4a23c8-ffdf-42a4-b9f9-e0e5d7aff267",
+    "data": [
+      {
+        "text": "Detalhes das ",
+        "userDefined": false
+      },
+      {
+        "text": "Bebidas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "96e113c4-7fe6-4a07-93eb-480a9a01883b",
+    "data": [
+      {
+        "text": "Detalhe ",
+        "userDefined": false
+      },
+      {
+        "text": "Bebidas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

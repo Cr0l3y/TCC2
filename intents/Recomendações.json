@@ -1,0 +1,95 @@
+{
+  "id": "46ae0599-230a-4c50-ab9f-3662e926e2ec",
+  "name": "Recomendações",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Algumas pizzas que eu recomendo aqui vai elas:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Primeiramente das pizzas tradicionais eu recomendo a pizza frango com catupiry, ela tem uma bela combinação com frango desfiado, milho, tomate e queijo, pode parecer pesada, no entanto, ela é leve para seu consumo, uma ótima ideia pra quem quer comer uma boa quantidade de pizza e continuar com sensação de não estar muito cheio."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A minha segunda recomendação vai ser a de Brigadeiro das pizzas Primes, ela é uma boa opção para quem gosta de um pizza doce ou é um chocólatra de carteirinha, para quebrar os paradigmas das pizzas ela é extremamente potente em sabor, onde se compõem em ter o chocolate extraído com cacau na própria PizzaFast, uma pizza Gourmet, uma pizza além de sua compreensão."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A minha terceira e última recomendação será 2 pizzas, sendo elas das pizzas especiais."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A Foi sem Querer Queijando, especialmente para aqueles que gostam muito de queijo, essa está alinhada com a pizza de 4 queijos, no entanto contém o dobro de quantidade além de ter um impacto maior, já que ela foi preparada para ter um balanceamento perfeito, mesmo contendo tanto queijo."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "E a ultima pizza recomendada a Pizza da Morte, ela tem uma explosão de sabor extraordinária, somente os fortes sobrevivem a ela, até para os mais fortes precisa consumi-la com alguma bebida, já que sua composição leva varias pimentas incluindo a pimenta cumari. As fatias pequenas de uva fazem uma bela combinação, mas não supre toda a ardência da pizza."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para voltar ao menu só escrever \"compra\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "026c907f-95be-4cc3-8bfb-d3a37bc48c46",
+    "data": [
+      {
+        "text": "deixa pra la",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "55318f7c-f260-4615-9856-ed23baa53605",
+    "data": [
+      {
+        "text": "nao quero mais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d7243d49-9d40-41e3-ac6a-2c26080bb6e4",
+    "data": [
+      {
+        "text": "desisto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f4761056-27b6-4060-bcf0-f74ab8a4f3e9",
+    "data": [
+      {
+        "text": "nao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

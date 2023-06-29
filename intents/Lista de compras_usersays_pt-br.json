@@ -1,0 +1,254 @@
+[
+  {
+    "id": "f2e2e950-39af-493b-a4b9-a8f5cb161f36",
+    "data": [
+      {
+        "text": "carrinho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c341cb88-bed9-47d9-8053-be249979e122",
+    "data": [
+      {
+        "text": "quero ver o ",
+        "userDefined": false
+      },
+      {
+        "text": "carrinho",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7667a596-6432-42fa-b80e-4065a197e7f5",
+    "data": [
+      {
+        "text": "local",
+        "userDefined": true
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "pedido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "47937c9f-281d-4d89-bb3e-f2914a61519d",
+    "data": [
+      {
+        "text": "pedido",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "local",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ee8d2b3d-9ea0-4d01-bced-234ec6b406f4",
+    "data": [
+      {
+        "text": "local",
+        "userDefined": true
+      },
+      {
+        "text": " de entrega do meu ",
+        "userDefined": false
+      },
+      {
+        "text": "pedido",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "44ebd7cc-c1fd-4395-92cc-1ef85c3205dd",
+    "data": [
+      {
+        "text": "meus ",
+        "userDefined": false
+      },
+      {
+        "text": "produtos",
+        "userDefined": true
+      },
+      {
+        "text": " e local de entrega",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "61dd4e30-aaa0-41d2-ad2a-46e5907ea787",
+    "data": [
+      {
+        "text": "meu ",
+        "userDefined": false
+      },
+      {
+        "text": "produtos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3674e0b9-d2f5-472a-a2b5-0116a9167282",
+    "data": [
+      {
+        "text": "produtos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8a9070fa-b755-4f71-871e-5788a9b25b83",
+    "data": [
+      {
+        "text": "pedido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "15797f61-a7ad-4bdf-81a4-b8a5c6c543e6",
+    "data": [
+      {
+        "text": "inventario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c5971012-310f-49cf-b723-5a9bab1a178c",
+    "data": [
+      {
+        "text": "caixa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "074461f7-d9bb-40c7-8612-f02909193dc8",
+    "data": [
+      {
+        "text": "box",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8bd10a84-45a5-43c2-901a-4ef834b933ce",
+    "data": [
+      {
+        "text": "meus ",
+        "userDefined": false
+      },
+      {
+        "text": "pedidos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a6e4eb32-8354-4571-bb8e-44560eec19c2",
+    "data": [
+      {
+        "text": "estoque",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a6b8908e-1964-4fa3-ab8a-6a67f371433b",
+    "data": [
+      {
+        "text": "bolsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ece2f591-9057-4f7d-ad57-b419abe5bcb7",
+    "data": [
+      {
+        "text": "mochila",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

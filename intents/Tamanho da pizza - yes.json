@@ -1,0 +1,49 @@
+{
+  "id": "712a8de0-73b4-4563-ab7e-eadfdfebffcf",
+  "parentId": "f6229c62-3982-4e6d-8231-679586c2a4cd",
+  "rootParentId": "f6229c62-3982-4e6d-8231-679586c2a4cd",
+  "name": "Tamanho da pizza - yes",
+  "auto": true,
+  "contexts": [
+    "Tamanhodapizza-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Tamanhodapizza.Tamanhodapizza-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O tamanho da sua pizza é #Tamanhodapizza-followup.PTAM"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Se for do seu interesse consumir alguma bebida, só pedir por \"lista de bebidas\" caso contrario, por favor me informa o local de retirada do pedido."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

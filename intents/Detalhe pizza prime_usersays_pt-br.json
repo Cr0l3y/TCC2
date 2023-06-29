@@ -1,0 +1,75 @@
+[
+  {
+    "id": "8e414782-e33b-440a-abe6-17e6db7b424a",
+    "data": [
+      {
+        "text": "Detalhe ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzas",
+        "userDefined": false
+      },
+      {
+        "text": " primes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1d43c0cc-a54a-4e9a-8763-11b006ac97d8",
+    "data": [
+      {
+        "text": "Detalhes das pizza prime",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cd644ced-4418-4a49-bd5f-7826fc81556d",
+    "data": [
+      {
+        "text": "Detalhes pizza prime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dc6b0e2a-c920-42b8-abe3-a3b38743cfd1",
+    "data": [
+      {
+        "text": "Detalhes das pizzas primes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "df5ec7a9-d4a9-45aa-93e1-b4a8ee96a130",
+    "data": [
+      {
+        "text": "Detalhe pizza prime",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

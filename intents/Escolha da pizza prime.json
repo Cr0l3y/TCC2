@@ -1,0 +1,84 @@
+{
+  "id": "4de59fb9-a533-4e2e-ae4f-975b549c39b1",
+  "name": "Escolha da pizza prime",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Escolhadapizzaprime-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7f912cf8-d111-4318-995f-72ba075fbe55",
+          "name": "PizzasPrimes",
+          "required": true,
+          "dataType": "@PizzasPrimes",
+          "value": "$PizzasPrimes",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "O que deseja? Temos pizza Prime de Alcachofra, Mexicana, Francesa, Caprese, Scamorza, Napolitana, Brigadeiro e Americana."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a0768cc2-3850-4193-ba2e-de253e416daf",
+          "name": "quantidade",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "value": "$quantidade",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "$PizzasPrimes, ok quantos serão?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ok,  $quantidade pizzas $PizzasPrimes. Posso confirma seu pedido?",
+            "Então deixa eu ver se entendi, vai querer  $quantidade pizzas $PizzasPrimes?",
+            "$quantidade pizzas $PizzasPrimes Certo?",
+            "Seu pedido é  $quantidade pizzas $PizzasPrimes Certo?",
+            "Pedido  $quantidade pizzas $PizzasPrimes aguardando confirmação",
+            "Posso confirma seu pedido $quantidade pizzas $PizzasPrimes?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

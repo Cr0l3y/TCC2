@@ -1,0 +1,47 @@
+[
+  {
+    "id": "9b7d1369-d01a-4e79-81cf-7db7d46ad1bd",
+    "data": [
+      {
+        "text": "G",
+        "meta": "@PTAM",
+        "alias": "PTAM",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d4abfa2c-ee42-4881-b32b-70336ae5a33b",
+    "data": [
+      {
+        "text": "M",
+        "meta": "@PTAM",
+        "alias": "PTAM",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1c2e352b-b0ee-4355-9777-9fd3f17ca447",
+    "data": [
+      {
+        "text": "P",
+        "meta": "@PTAM",
+        "alias": "PTAM",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

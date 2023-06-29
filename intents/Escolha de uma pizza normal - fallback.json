@@ -1,0 +1,41 @@
+{
+  "id": "8376d00d-685b-4134-a1d6-9ffcee9ee431",
+  "parentId": "42cefb39-137c-4b30-b1ad-f697c7602181",
+  "rootParentId": "42cefb39-137c-4b30-b1ad-f697c7602181",
+  "name": "Escolha de uma pizza normal - fallback",
+  "contexts": [
+    "Escolhadeumapizzanormal-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Escolhadeumapizzanormal.Escolhadeumapizzanormal-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Que coisa :/ qual quer coisa só me chamar",
+            "Ok,  :/ qual quer coisa estarei aqui",
+            "Qualquer duvida só me avisar",
+            "Estarei aqui qualquer coisa"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

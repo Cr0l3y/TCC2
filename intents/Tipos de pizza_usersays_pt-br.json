@@ -1,0 +1,223 @@
+[
+  {
+    "id": "865b5772-2c45-4e81-901f-cc347fa3857c",
+    "data": [
+      {
+        "text": "que tipo de ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " tem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9839ab62-e172-4ea3-bad4-ec756e3a0834",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c7cfb4b1-a46d-4009-9d71-0306341adef5",
+    "data": [
+      {
+        "text": "tuas ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "72d90aa2-3a00-4859-a9e7-53c9819505b7",
+    "data": [
+      {
+        "text": "as suas ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a8943d95-a066-4129-9f68-1d7a2ef6e9ac",
+    "data": [
+      {
+        "text": "quero saber os tipos de ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " de vcs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7f9607ff-424f-4558-acfe-434411d23577",
+    "data": [
+      {
+        "text": "que tipo de ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " vcs tem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "54177566-9679-406d-bd83-17c525a5f1d1",
+    "data": [
+      {
+        "text": "pizza",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0d14ca1c-41e4-45ac-a6ce-616b60a7d0ce",
+    "data": [
+      {
+        "text": "que ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " vocês tem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "99d0e266-4461-4ba7-bb12-7be2fa6d8682",
+    "data": [
+      {
+        "text": "qual pizza",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " vocês tem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "01abe4f4-bd57-49ad-ad4d-dbc92ed62c7b",
+    "data": [
+      {
+        "text": "tipos de ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fdff979b-9116-4ec5-bc3e-32b4085b0cb5",
+    "data": [
+      {
+        "text": "Quero saber quais tipos de ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzas",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " vocês tem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

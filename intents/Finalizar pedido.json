@@ -1,0 +1,46 @@
+{
+  "id": "7f2653bb-c2b5-45ef-9843-16be09a01b69",
+  "name": "Finalizar pedido",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Finalizando chamado... Obrigado por escolher a PizzaFast, estaremos esperando por você novamente XD.",
+            "Obrigado por escolher a PizzaFast, estaremos esperando por você novamente XD.",
+            "Estaremos esperando por sua visita novamente. Obrigado pela preferência.",
+            "Até a proxima, PizzaFast agradece sua visita."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

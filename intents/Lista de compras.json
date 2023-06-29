@@ -1,0 +1,63 @@
+{
+  "id": "ef9115b7-41a0-486d-bd57-a1c7da256d6d",
+  "name": "Lista de compras",
+  "auto": true,
+  "contexts": [
+    "EscolhaDolocaldeentrega-followup",
+    "Escolhadeumapizzanormal-followup",
+    "Escolhapizzasmultiplas-followup",
+    "Escolhadapizzaprime-followup",
+    "Bebidas-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "EscolhaDolocaldeentrega-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "Escolhadeumapizzanormal-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "Escolhapizzasmultiplas-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "Escolhadapizzaprime-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "Bebidas-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Seu pedido é  $quantidade , $PizzasMultiplas $pizzanormais $PizzasPrimes  será entregue em  , bebida selecionada \" $bebidas  \" .",
+            "Seu pedido é $PizzasMultiplas $pizzanormais $PizzasPrimes  e será entregue em $Locais , bebida selecionada \" $bebidas  \" ."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

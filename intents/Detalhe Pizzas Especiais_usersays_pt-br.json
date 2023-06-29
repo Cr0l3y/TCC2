@@ -1,0 +1,57 @@
+[
+  {
+    "id": "e02884a2-ede7-45e8-9e19-9a1e319f1064",
+    "data": [
+      {
+        "text": "Detalhes das ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzas",
+        "userDefined": false
+      },
+      {
+        "text": " especiais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0b3dcae5-a0fb-48b6-9918-eeb0323b1775",
+    "data": [
+      {
+        "text": "Detalhes ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "userDefined": false
+      },
+      {
+        "text": " especiais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7b17f16f-cd47-4ca2-a6a5-f694c7b8631e",
+    "data": [
+      {
+        "text": "Detalhes pizzas especiais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

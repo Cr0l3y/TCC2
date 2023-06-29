@@ -1,0 +1,43 @@
+{
+  "id": "3af2e8e3-723e-490c-926f-0a81c957b6a0",
+  "parentId": "862ab0fb-e2b6-47a6-85ef-7cb377da9b21",
+  "rootParentId": "862ab0fb-e2b6-47a6-85ef-7cb377da9b21",
+  "name": "Escolha pizzas multiplas - fallback",
+  "contexts": [
+    "Escolhadeumapizzanormal-followup",
+    "Escolhadapizzaprime-followup",
+    "Escolhapizzasmultiplas-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Escolhapizzasmultiplas.Escolhapizzasmultiplas-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Que coisa :/ qual quer coisa só me chamar",
+            "Ok,  :/ qual quer coisa estarei aqui",
+            "Qualquer duvida só me avisar",
+            "Estarei aqui qualquer coisa"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

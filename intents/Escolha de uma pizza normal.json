@@ -1,0 +1,81 @@
+{
+  "id": "42cefb39-137c-4b30-b1ad-f697c7602181",
+  "name": "Escolha de uma pizza normal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Escolhadeumapizzanormal-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "286f01ab-63c8-4233-a197-a38248decdc2",
+          "name": "pizzanormais",
+          "required": true,
+          "dataType": "@PizzaNormais",
+          "value": "$pizzanormais",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "O que  deseja? Temos Portuguesa, Muçarela, Quatro queijos, Frango com catupiry"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e48969ee-5201-4c78-a1de-c12b00fbcc14",
+          "name": "Quantidade",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$Quantidade",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "$pizzanormais, ok quantos serão?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ok,  $Quantidade  $pizzanormais . Posso confirma seu pedido?",
+            "Seu pedido foi: $Quantidade  $pizzanormais  Posso confirma?",
+            "Posso confirma seu pedido $Quantidade  $pizzanormais ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

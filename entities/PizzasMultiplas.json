@@ -1,0 +1,9 @@
+{
+  "id": "f1cf57db-e180-49a2-9af9-589b6923e85e",
+  "name": "PizzasMultiplas",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

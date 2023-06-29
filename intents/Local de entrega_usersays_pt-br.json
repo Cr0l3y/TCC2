@@ -1,0 +1,93 @@
+[
+  {
+    "id": "b6c29664-19de-49b5-ae12-d29350c871eb",
+    "data": [
+      {
+        "text": "local de entrega",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cfbd811a-8d4b-42cf-a21c-66626b16ef8f",
+    "data": [
+      {
+        "text": "região de entrega",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f7d711ec-89e1-4d0b-9972-32c6b0c614d8",
+    "data": [
+      {
+        "text": "locais onde estão entregando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c43ed6a4-cf26-42f6-a631-6a2ad60c539a",
+    "data": [
+      {
+        "text": "onde está tendo entrega",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cff247ba-2ddb-4e20-86cc-af34ef57c365",
+    "data": [
+      {
+        "text": "Onde está entregando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3abaa946-c2f2-445d-a7a0-4e86efb7aaf3",
+    "data": [
+      {
+        "text": "locais de entrega",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2418b330-143a-4d4b-bd22-41dccc936cd8",
+    "data": [
+      {
+        "text": "Quero saber os locais de entrega",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

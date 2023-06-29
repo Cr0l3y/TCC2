@@ -1,0 +1,35 @@
+{
+  "id": "58e95cf3-245f-4c33-9eec-29558b1924de",
+  "name": "Local de entrega",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "As entregas só estão sendo retiradas na Asa Sul e Norte, Rodoviária do plano piloto, Setor sudoeste, e no Setor de clubes esportivos. As áreas estão com a tarifa de removida por inatividade do sistema de entrega."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
