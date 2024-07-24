@@ -1,2 +1,2 @@
 # TCC2
-Arquivo desenvolvido no Dialogflow para atendimento de pizzaria
+Chat bot desenvolvido no Dialogflow para atendimento de pizzaria com intuito de ser ultilizado na conclusão de curso.
